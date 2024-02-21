@@ -31,3 +31,9 @@ function ranked(victories, losses){
         return "The hero has a balance of " + winningBalance + " victories and is at level of " + level + "!"
 }
 console.log(gameResult)
+
+
+
+
+
+
