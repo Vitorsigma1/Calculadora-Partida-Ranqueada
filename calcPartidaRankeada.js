@@ -1,5 +1,3 @@
-
-
 let victories = 90
 let losses = 20
 const gameResult = ranked(victories, losses)
@@ -33,3 +31,9 @@ function ranked(victories, losses){
         return "The hero has a balance of " + winningBalance + " victories and is at level of " + level + "!"
 }
 console.log(gameResult)
+
+
+
+
+
+
