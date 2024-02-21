@@ -1,5 +1,5 @@
 # Calculadora de Partidas Rankeadas
-clear
+
 **O Que deve ser utilizado**
 
 - Variáveis
